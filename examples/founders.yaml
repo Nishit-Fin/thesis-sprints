@@ -1,0 +1,18 @@
+# Example input for outreach.py. The founder below is made up.
+sender: Nishit
+calendly_event_type: 20 minute founder call
+subject: "{company}: a few questions"
+template: |
+  Hi {first_name},
+
+  I have been researching {why}, and {company} kept coming up. I would like to understand how you think about the next two years.
+
+  If you have 20 minutes, pick any time that suits you here: {link}
+
+  Thanks,
+  {sender}
+founders:
+  - name: Asha Example
+    email: asha@example.com
+    company: Example Photonics
+    why: Indian-made photonics parts for quantum networks

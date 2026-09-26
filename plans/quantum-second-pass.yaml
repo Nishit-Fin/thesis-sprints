@@ -1,0 +1,35 @@
+# Next pass on my quantum technologies thesis: closing the open questions
+# the first version left. Every block has a finish line someone else could check.
+thesis: Quantum thesis, second pass
+timezone: Asia/Kolkata
+start: 2026-09-28
+deadline: 2026-10-09
+windows:
+  weekdays: ["10:00-12:30"]
+buffer_share: 0.2     # 20% extra time, used only for parked tangents
+buffer_every: 3       # one buffer block after every 3 work blocks
+blocks:
+  - title: Reread the thesis, list what is still open
+    minutes: 45
+    done_when: Every open question has an owner, desk research or founder call
+  - title: "Pramatra: price per payload and first buyer"
+    minutes: 90
+    done_when: Both found with a source, or both on the founder call list
+  - title: "Pramatra: who else builds satellite QKD in India"
+    minutes: 60
+    done_when: A yes or no for QNu Labs and one other name, each with a source
+  - title: "Quanfluence: benchmark against GPU solvers"
+    minutes: 90
+    done_when: One public benchmark found, or the question added to the call list
+  - title: "Quanfluence: the 2026 round"
+    minutes: 45
+    done_when: Lead investor and size from a filing or news, or marked unknown
+  - title: "Taqbit: who owns the IP, who the founders are"
+    minutes: 60
+    done_when: Company registry checked, and the DRDO technology transfer found or marked unknown
+  - title: Founder emails
+    minutes: 45
+    done_when: Drafts for Pramatra and Quanfluence in Gmail, each with its own booking link
+  - title: Update the thesis
+    minutes: 90
+    done_when: Every changed number re-sourced, bottom-line table redone

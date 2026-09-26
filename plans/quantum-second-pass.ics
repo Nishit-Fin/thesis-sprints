@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//thesis-sprints//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4e4123d3d1bb3edc9f42f2d1b8aad0c9db335e6a@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260928T043000Z
+DTEND:20260928T051500Z
+SUMMARY:Quantum thesis\, second pass: Reread the thesis\, list what is stil
+ l open
+DESCRIPTION:Done when: Every open question has an owner\, desk research or 
+ founder call\nNew idea that is off this block? Write it in parking-lot.md 
+ and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:bab362c31342efee397c6e60790a2e09ba55055c@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260928T052500Z
+DTEND:20260928T065500Z
+SUMMARY:Quantum thesis\, second pass: Pramatra: price per payload and first
+  buyer
+DESCRIPTION:Done when: Both found with a source\, or both on the founder ca
+ ll list\nNew idea that is off this block? Write it in parking-lot.md and k
+ eep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:37ef1c3d2b31d3332bf435e7987b905ab55a6616@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260929T043000Z
+DTEND:20260929T053000Z
+SUMMARY:Quantum thesis\, second pass: Pramatra: who else builds satellite Q
+ KD in India
+DESCRIPTION:Done when: A yes or no for QNu Labs and one other name\, each w
+ ith a source\nNew idea that is off this block? Write it in parking-lot.md 
+ and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:0807b4e24160285f6dc0f5dfecc57bb5e0fc017a@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260929T054000Z
+DTEND:20260929T062500Z
+SUMMARY:Quantum thesis\, second pass: Buffer: parked tangents
+DESCRIPTION:Done when: Parking lot reviewed\; anything useful moved into th
+ e draft
+END:VEVENT
+BEGIN:VEVENT
+UID:fedd4daebcb1f3e40a56434c40f0d263961e850e@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260930T043000Z
+DTEND:20260930T060000Z
+SUMMARY:Quantum thesis\, second pass: Quanfluence: benchmark against GPU so
+ lvers
+DESCRIPTION:Done when: One public benchmark found\, or the question added t
+ o the call list\nNew idea that is off this block? Write it in parking-lot.
+ md and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:df012bbc1874205e0a5e3a675884627d59c52dd5@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20260930T061000Z
+DTEND:20260930T065500Z
+SUMMARY:Quantum thesis\, second pass: Quanfluence: the 2026 round
+DESCRIPTION:Done when: Lead investor and size from a filing or news\, or ma
+ rked unknown\nNew idea that is off this block? Write it in parking-lot.md 
+ and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c6f0beebe53b696610c312b4de299f5fcb2c313@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20261001T043000Z
+DTEND:20261001T053000Z
+SUMMARY:Quantum thesis\, second pass: Taqbit: who owns the IP\, who the fou
+ nders are
+DESCRIPTION:Done when: Company registry checked\, and the DRDO technology t
+ ransfer found or marked unknown\nNew idea that is off this block? Write it
+  in parking-lot.md and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:fd91e3fbb1a21d26354d554718fd8c51317b1f57@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20261001T054000Z
+DTEND:20261001T062500Z
+SUMMARY:Quantum thesis\, second pass: Buffer: parked tangents
+DESCRIPTION:Done when: Parking lot reviewed\; anything useful moved into th
+ e draft
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f59af026e5ed9698be1ec1ab353229f5131063@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20261002T043000Z
+DTEND:20261002T051500Z
+SUMMARY:Quantum thesis\, second pass: Founder emails
+DESCRIPTION:Done when: Drafts for Pramatra and Quanfluence in Gmail\, each 
+ with its own booking link\nNew idea that is off this block? Write it in pa
+ rking-lot.md and keep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:b8873494b3bba9f4346670b86bea75ef1c156aaa@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20261002T052500Z
+DTEND:20261002T065500Z
+SUMMARY:Quantum thesis\, second pass: Update the thesis
+DESCRIPTION:Done when: Every changed number re-sourced\, bottom-line table 
+ redone\nNew idea that is off this block? Write it in parking-lot.md and ke
+ ep going.
+END:VEVENT
+BEGIN:VEVENT
+UID:3765dc00f55caf72af176d3f106168c27a0969db@thesis-sprint
+DTSTAMP:20260926T171604Z
+DTSTART:20261005T043000Z
+DTEND:20261005T050000Z
+SUMMARY:Quantum thesis\, second pass: Buffer: parked tangents
+DESCRIPTION:Done when: Parking lot reviewed\; anything useful moved into th
+ e draft
+END:VEVENT
+END:VCALENDAR
