@@ -19,10 +19,10 @@ Google Calendar or Outlook.
 
 | Job | Tool | Why this one |
 |---|---|---|
-| Split the thesis, keep the parking lot | Claude, with the [thesis-sprint skill](.claude/skills/thesis-sprint/SKILL.md) | Turns "research the market" into blocks with a checkable finish line |
+| Split the thesis, keep the parking lot | Claude, with the [thesis-sprint skill](skills/thesis-sprint/SKILL.md) | Turns "research the market" into blocks with a checkable finish line |
 | Put the blocks on my calendar | Google Calendar (Claude connector), or the `.ics` file | Calendly books meetings with other people. It cannot block my own time |
 | Keep blocks off booked calls | Calendly busy times | Blocks go around founder calls already booked |
-| Founder calls | Calendly one-time links, with the [founder-outreach skill](.claude/skills/founder-outreach/SKILL.md) | Each founder gets their own link, so every booking traces back to one email |
+| Founder calls | Calendly one-time links, with the [founder-outreach skill](skills/founder-outreach/SKILL.md) | Each founder gets their own link, so every booking traces back to one email |
 | Outreach emails | Gmail (Claude connector), drafts only | I read and send every email myself |
 | LinkedIn posts | My [LinkedIn skills fork](https://github.com/Nishit-Fin/linkedin-skills-vc), which schedules through Publora | Calendly and Gmail cannot post to LinkedIn |
 
